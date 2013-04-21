@@ -1,9 +1,11 @@
 #Scripts for Scriptographer
 http://scriptographer.org
 
-If you're not familiar with Scriptographer already, here's a introductory tutorial I wrote:
 
 Tools created to be used on Scriptographer, a plugin for Adobe Illustrator. Unfortunately Scriptographer is incompatible with CS6, and [@scriptographer](https://twitter.com/scriptographer) dev team has since stopped the development.
+
+If you're not familiar with Scriptographer already, here's a introductory tutorial I wrote:  
+[Try Scriptographer](http://shanfanhuang.com/articles/2013/4/9/try-scriptographer)
 
 ##Grid Generator  
 This script generates 4 different grids.  
